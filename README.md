@@ -44,3 +44,54 @@ ShizukuGuard 的锁机防护能力不及游龙工具，但它的长处在于“�
 *   **闭源声明**：本项目为完全闭源项目，不使用任何开源许可证。
 *   **权利保留**：作者保留对该项目的所有权利。未经允许，请勿用于商业用途或二次打包分发。
 *   **无担保声明**：本项目不对更新做任何保证（按现状提供）。
+详细内容：
+ShizukuGuard Custom Proprietary License (Version 1.0)
+ShizukuGuard 自定义专有软件许可协议（第一版）
+
+Copyright (c) 2026 TSS-ARO. All Rights Reserved.
+版权所有 (c) 2026 TSS-ARO。保留所有权利。
+
+【中文版】
+
+1. 授权范围 (Grant of License)
+本软件（ShizukuGuard，包含编译后的 APK 文件及相关文档）的版权所有者仅授予您个人的、非排他性的、不可转让的、非商业性质的许可，允许您下载、安装并运行本软件的官方未修改版本，用于个人设备的安全防护。
+
+2. 严格禁止的行为 (Restrictions)
+未经版权所有者明确的书面许可，严禁实施以下行为：
+- 商业使用：不得将本软件用于任何商业目的，包括但不限于捆绑销售、企业级分发、或者通过本软件直接/间接获利。
+- 逆向工程与修改：不得对本软件进行反编译、反汇编、逆向工程、修改或创建衍生作品。
+- 二次分发：不得以任何形式（包括但不限于网盘分享、应用商店上架、打包进第三方 ROM 等）重新分发、出租、出售本软件的安装包。
+
+3. 免责声明 (Disclaimer of Warranty & Liability)
+本软件按“现状”提供，不提供任何明示或暗示的担保，包括但不限于对适销性、特定用途适用性的担保。
+鉴于本软件涉及底层的 Shizuku/Root 权限及高危操作（如强制卸载、系统级冻结等），使用本软件存在导致设备功能异常、数据丢失甚至系统崩溃的风险。
+您必须自行承担使用本软件的全部风险。在任何情况下，版权所有者均不对因使用或无法使用本软件而产生的任何直接、间接、附带或特殊的损害（包括但不限于设备变砖、数据损坏、财产损失）承担任何法律责任。
+
+4. 权利保留 (Reservation of Rights)
+本许可证未明确授予您的所有权利，均由版权所有者保留。版权所有者保留随时更改本软件功能、停止更新或修改本协议的权利。
+
+5. 违约终止 (Termination)
+一旦您违反本协议中的任何条款，本授权即刻自动终止。您必须立即停止使用本软件并从所有设备中彻底删除。
+
+====================================================================
+
+【English Version】
+
+1. Grant of License
+The copyright holder of this software (ShizukuGuard, including the compiled APK and documentation) grants you a personal, non-exclusive, non-transferable, non-commercial license to download, install, and run the official unmodified version of this software for personal device security protection.
+
+2. Restrictions
+Without the express written permission of the copyright holder, you are strictly prohibited from:
+- Commercial Use: Using this software for any commercial purposes, including bundling, enterprise distribution, or directly/indirectly profiting from it.
+- Reverse Engineering & Modification: Decompiling, disassembling, reverse engineering, modifying, or creating derivative works of this software.
+- Redistribution: Redistributing, renting, or selling the software package in any form (including but not limited to cloud sharing, app store publishing, or bundling into custom ROMs).
+
+3. Disclaimer of Warranty & Liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Given that this software involves low-level Shizuku/Root permissions and high-risk operations, using it carries the risk of device malfunction, data loss, or system crash. YOU ASSUME THE ENTIRE RISK OF USING THIS SOFTWARE. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THIS SOFTWARE.
+
+4. Reservation of Rights
+All rights not expressly granted to you in this license are reserved by the copyright holder. The copyright holder reserves the right to change features, stop updating, or modify this agreement at any time.
+
+5. Termination
+This license terminates automatically if you violate any term of this agreement. You must immediately cease using the software and delete it from all devices.
