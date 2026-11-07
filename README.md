@@ -45,6 +45,7 @@ ShizukuGuard 的锁机防护能力不及游龙工具，但它的长处在于“�
 *   **权利保留**：作者保留对该项目的所有权利。未经允许，请勿用于商业用途或二次打包分发。
 *   **无担保声明**：本项目不对更新做任何保证（按现状提供）。
 详细内容：
+-------------
 ShizukuGuard Custom Proprietary License (Version 1.0)
 ShizukuGuard 自定义专有软件许可协议（第一版）
 
